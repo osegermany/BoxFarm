@@ -1,0 +1,79 @@
+
+# Open know-how manifest
+# according to The Open Know-How Manifest Specification Version 1.0
+# for more info, see http://openknowhow.org/
+
+# The content of this manifest file is licensed under a Creative Commons Attribution 4.0 International License.
+# Licenses for modification and distribution of the hardware, documentation, source-code, etc are stated separately.
+
+# Remove any fields that are not used. Comments (beginning with '#') may also be removed.
+
+# Manifest metadata
+
+date-created: 2020-05-10
+#date-updated: 2020-05-11
+
+manifest-author:
+  name: Robin Vobruba
+  affiliation: OpenSourceEcology Germany e.V.
+  email: robin.vobruba@ose-germany.de
+
+manifest-language: DE-Western-Europe
+
+documentation-language: DE-Western-Europe
+
+documentation-home: https://wiki.opensourceecology.de/Boxfarm
+
+title: BoxFram
+
+description: |
+  Die Boxfarm ist ein kleiner experimenteller Prototyp einer transportablen Hydroponikfarm,
+  basierend auf dem NFT-Verfahren (Nutrient Film Technique).
+  Ein anpassungsfähiges Design, beliebig in der Größe skalierbar,
+  teilautomatisiert mit geplanter Off-Grid-Erweiterung.
+
+intended-use: |
+  Mobile Off-Grid DIY farm
+
+keywords:
+  - Mobile
+  - Farm
+  - Off-Grid
+  - NFT
+  - Hydrophonic
+
+project-link: https://github.com/osegermany/BoxFarm
+
+contact:
+  name: Timo Nendel
+  affiliation: OpenSourceEcology Germany e.V.
+  email: timo.nendel@ose-germany.de
+
+contributors:
+  - name: Timo Nendel
+    affiliation: OpenSourceEcology Germany e.V.
+    email: timo.nendel@ose-germany.de
+
+image: https://wiki.opensourceecology.de/images/0/01/Boxfarm_prototype_1.1_thumb.jpg
+
+version: 1.1
+
+development-stage: prototype
+
+made: true
+
+made-independently: false
+
+license:
+  hardware: CERN OHL
+  documentation: CC-BY-SA 4.0
+  #software: CC-BY-SA 4.0
+
+licensor:
+  name: Timo Nendel
+  affiliation: OpenSourceEcology Germany e.V.
+  email: timo.nendel@ose-germany.de
+
+## User defined Fields
+## Include any custom / extended fields here
+
